@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hw_react.iml" filepath="$PROJECT_DIR$/.idea/hw_react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sep-2021-react/sep-2021-react.iml" filepath="$PROJECT_DIR$/../sep-2021-react/sep-2021-react.iml" />
     </modules>
   </component>
 </project>
